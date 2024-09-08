@@ -27,9 +27,6 @@ http://opplex.tv:8080/live/773199/626227/109974.ts
 #EXTINF:0,tvg-logo="https://i.ibb.co/8PfZWZW/image-Content-1356-j5tdnwmw-m1.png", DISNEP CHANNEL
 http://opplex.tv:8080/live/773199/626227/167551.ts
 
-#EXTINF:0,tvg-logo="", EUROSPORT HD
-http://opplex.tv:8080/live/773199/626227/206324.ts
-
 #EXTINF:0,tvg-logo="https://i.ibb.co/1fdf43V/20240809-081051.png", GOLDMINES
 http://opplex.tv:8080/live/773199/626227/112972.ts
 
@@ -66,9 +63,6 @@ http://opplex.tv:8080/live/773199/626227/150483.ts
 #EXTINF:0,tvg-logo="", STAR BHARAT HD
 http://opplex.tv:8080/live/773199/626227/109951.ts
 
-#EXTINF:0,tvg-logo="https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png", SONY ENTERTAINMENT HD
-http://opplex.tv:8080/live/773199/626227/109948.ts
-
 #EXTINF:0,tvg-logo="", STAR GOLD THRILLS
 http://opplex.tv:8080/live/773199/626227/221258.ts
 
@@ -81,17 +75,20 @@ http://opplex.tv:8080/live/773199/626227/106133.ts
 #EXTINF:0,tvg-logo="", STAR GOLD SELECT HD
 http://opplex.tv:8080/live/773199/626227/109960.ts
 
-#EXTINF:0,tvg-logo="https://images.toffeelive.com/images/program/352/logo/240x240/mobile_logo_612341001666782969.png", SONY MAX HD
-http://opplex.tv:8080/live/773199/626227/109957.ts
-
-#EXTINF:0,tvg-logo="", SONY MAX 2
-http://opplex.tv:8080/live/773199/626227/66189.ts
-
 #EXTINF:0,tvg-logo="", STAR MOVIES HD
 http://opplex.tv:8080/live/773199/626227/109970.ts
 
 #EXTINF:0,tvg-logo="", STAR PLUS HD
 http://opplex.tv:8080/live/773199/626227/109949.ts
+
+#EXTINF:0,tvg-logo="https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png", SONY ENTERTAINMENT HD
+http://opplex.tv:8080/live/773199/626227/109948.ts
+
+#EXTINF:0,tvg-logo="https://images.toffeelive.com/images/program/352/logo/240x240/mobile_logo_612341001666782969.png", SONY MAX HD
+http://opplex.tv:8080/live/773199/626227/109957.ts
+
+#EXTINF:0,tvg-logo="", SONY MAX 2
+http://opplex.tv:8080/live/773199/626227/66189.ts
 
 #EXTINF:0,tvg-logo="", SONY PIX HD
 http://opplex.tv:8080/live/773199/626227/109966.ts
@@ -100,37 +97,10 @@ http://opplex.tv:8080/live/773199/626227/109966.ts
 http://opplex.tv:8080/live/773199/626227/104192.ts
 
 #EXTINF:0,tvg-logo="", SONY SAB
-http://opplex.tv:8080/live/773199/626227/221256.ts
+http://tv.cloudcdn.me/live.ts?channelId=192&uid=13433&deviceMac=00:1A:79:00:97:A1
 
 #EXTINF:0,tvg-logo="", SONY SAB HD
 http://opplex.tv:8080/live/773199/626227/109953.ts
-
-#EXTINF:0,tvg-logo="", STAR SPORTS 1 HD
-http://opplex.tv:8080/live/773199/626227/109987.ts
-
-#EXTINF:0,tvg-logo="", STAR SPORTS 1 HINDI HD
-http://opplex.tv:8080/live/773199/626227/109986.ts
-
-#EXTINF:0,tvg-logo="", STAR SPORTS 2 HD
-http://opplex.tv:8080/live/773199/626227/109988.ts
-
-#EXTINF:0,tvg-logo="", STAR SPORTS SELECT 1 HD
-http://opplex.tv:8080/live/773199/626227/109993.ts
-
-#EXTINF:0,tvg-logo="", STAR SPORTS SELECT 2 HD
-http://opplex.tv:8080/live/773199/626227/109994.ts
-
-#EXTINF:0,tvg-logo="", SONY SIX HD
-http://opplex.tv:8080/live/773199/626227/109992.ts
-
-#EXTINF:0,tvg-logo="", SONY TEN 1
-http://opplex.tv:8080/live/773199/626227/109983.ts
-
-#EXTINF:0,tvg-logo="", SONY TEN 2
-http://opplex.tv:8080/live/773199/626227/109984.ts
-
-#EXTINF:0,tvg-logo="", SONY TEN 3
-http://opplex.tv:8080/live/773199/626227/109985.ts
 
 #EXTINF:0,tvg-logo="", SONY WAH
 http://opplex.tv:8080/live/773199/626227/112979.ts
