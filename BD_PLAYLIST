@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:0,tvg-logo="https://i.ibb.co.com/0Xv223W/images.jpg", AL QURAN
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkah.stream/playlist.m3u8
 
 #EXTINF:0,tvg-logo="https://i.postimg.cc/vDtJVwNY/Al-Sunnah.png", AL SUNNAH
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/madina.stream/playlist.m3u8
@@ -15,8 +15,8 @@ http://176.119.29.52/live.ts?channelId=80&uid=13433&deviceMac=00:1A:79:00:97:A1
 #EXTINF:0,tvg-logo="https://i.postimg.cc/DZTg115q/Ananda-TV.png", ANANDA TV
 https://livess.ncare.live/live-orgin/anandatv.stream/playlist.m3u8
 
-#EXTINF:0,tvg-logo="https://i.postimg.cc/76gZRqK0/BTV-World.png", BTV WORLD HD
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/Btv-g.stream/playlist.m3u8
+#EXTINF:0,tvg-logo="https://i.postimg.cc/76gZRqK0/BTV-World.png", BTV HD
+http://176.119.29.52/live.ts?channelId=44154&uid=13433&deviceMac=00:1A:79:00:97:A1
 
 #EXTINF:0,tvg-logo="https://i.postimg.cc/5y8VKjyM/Bangla-Vision.png", BANGLA VISION HD
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/playlist.m3u8
