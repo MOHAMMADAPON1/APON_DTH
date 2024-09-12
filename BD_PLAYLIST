@@ -1,100 +1,97 @@
 #EXTM3U
 
+#EXTINF:0,tvg-logo="https://i.ibb.co.com/0Xv223W/images.jpg", AL QURAN
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8
+
 #EXTINF:0,tvg-logo="https://i.postimg.cc/vDtJVwNY/Al-Sunnah.png", AL SUNNAH
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/madina.stream/playlist.m3u8
 
 #EXTINF:0,tvg-logo="https://i.postimg.cc/NfXYJXPY/ATN-Bangla.png", ATN BANGLA HD
-https://edge01.iptv.digijadoo.net/live/atn_bangla/playlist.m3u8?md5=R5f704wDdeIYNs14_09rPQ&expires=1725871138&user=ef71b837ceef4cd18a6cf7069722d83d
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8
 
 #EXTINF:0,tvg-logo="https://i.postimg.cc/ncXG94c4/Asian-TV.png", ASIAN TV
-https://edge01.iptv.digijadoo.net/live/asian_tv/playlist.m3u8?md5=kzXMWAqJpfcr3qijVbIFcw&expires=1725871520&user=ef71b837ceef4cd18a6cf7069722d83d
+http://176.119.29.52/live.ts?channelId=80&uid=13433&deviceMac=00:1A:79:00:97:A1
 
 #EXTINF:0,tvg-logo="https://i.postimg.cc/DZTg115q/Ananda-TV.png", ANANDA TV
-https://edge01.iptv.digijadoo.net/live/ananda_tv/playlist.m3u8?md5=fxAYbGvJcakm4LI9eMdivQ&expires=1725871791&user=ef71b837ceef4cd18a6cf7069722d83d ok
+https://livess.ncare.live/live-orgin/anandatv.stream/playlist.m3u8
 
 #EXTINF:0,tvg-logo="https://i.postimg.cc/76gZRqK0/BTV-World.png", BTV WORLD HD
-https://edge01.iptv.digijadoo.net/live/btv_world/playlist.m3u8?md5=4RxN9w12ViRUwaDpeQVyLg&expires=1725871091&user=ef71b837ceef4cd18a6cf7069722d83d
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/Btv-g.stream/playlist.m3u8
 
 #EXTINF:0,tvg-logo="https://i.postimg.cc/5y8VKjyM/Bangla-Vision.png", BANGLA VISION HD
-https://edge01.iptv.digijadoo.net/live/bangla_vision/playlist.m3u8?md5=dm2texnD5CJ8-XksBWxIsA&expires=1725871219&user=ef71b837ceef4cd18a6cf7069722d83d
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/playlist.m3u8
 
 #EXTINF:0,tvg-logo="https://i.postimg.cc/SKfWWGk6/Boishakhi-TV.png", BOISHAKHI TV
-https://edge01.iptv.digijadoo.net/live/boishakhi_tv/playlist.m3u8?md5=N3cj9J4MmOL-KyhiKMvK4A&expires=1725871230&user=ef71b837ceef4cd18a6cf7069722d83d
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/boishakhitv-org.stream/playlist.m3u8
 
 #EXTINF:0,tvg-logo="https://i.postimg.cc/Rhj2tXpv/Bangla-TV-HD.png", BANGLA TV HD
-https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglatvhd.stream/playlist.m3u8
 
 #EXTINF:0,tvg-logo="https://i.postimg.cc/PPRD65Qs/images.png", BONGO DRAMAS
 https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/bongo-op.m3u8?id=bongo-dramas
 
 #EXTINF:0,tvg-logo="https://i.postimg.cc/SQYcd9Lz/Channel9.png", CHANNEL 9 HD
-https://edge01.iptv.digijadoo.net/live/channel_9/playlist.m3u8?md5=qNetcatYnQNGPvFNdjVHiA&expires=1725871424&user=ef71b837ceef4cd18a6cf7069722d83d
-
-#EXTINF:0,tvg-logo="https://images.toffeelive.com/images/program/52/logo/240x240/mobile_logo_262737001655890931.png", CHANNEL 24 HD
-https://edge01.iptv.digijadoo.net/live/channel_24/playlist.m3u8?md5=mmPqX21NBbJOjoNvC5Qisg&expires=1725871452&user=ef71b837ceef4cd18a6cf7069722d83d
+http://176.119.29.52/live.ts?channelId=88&uid=13433&deviceMac=00:1A:79:00:97:A1
 
 #EXTINF:0,tvg-logo="https://i.postimg.cc/hPPcgLCX/Channel-I.png", CHANNEL I HD
-https://edge01.iptv.digijadoo.net/live/channel_i/playlist.m3u8?md5=rOgt0cKRNuFVUmpemXfTdA&expires=1725871206&user=ef71b837ceef4cd18a6cf7069722d83d
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/playlist.m3u8
 
 #EXTINF:0,tvg-logo="https://i.postimg.cc/Jh8rc7Dn/Deepto-TV-HD.png", DEEPTO TV HD
-https://edge01.iptv.digijadoo.net/live/deepto_tv/playlist.m3u8?md5=NSil4b9i_98YQr3GjkDs8A&expires=1725871597&user=ef71b837ceef4cd18a6cf7069722d83d
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deeptotv.stream/playlist.m3u8
 
 #EXTINF:0,tvg-logo="https://i.postimg.cc/15JCh6T5/DBC-News.png", DBC NEWS 24/7
-https://edge01.iptv.digijadoo.net/live/dbc_news/playlist.m3u8?md5=9Vl0chWRi-1GU84QRDLd7w&expires=1725871614&user=ef71b837ceef4cd18a6cf7069722d83d
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8
 
 #EXTINF:0,tvg-logo="https://i.postimg.cc/V60v1jDy/Desh-TV-Live.png", DESH TV
-https://edge01.iptv.digijadoo.net/live/desh_tv/playlist.m3u8?md5=TYmfGkBENQPiyVUok0ncoA&expires=1725871246&user=ef71b837ceef4cd18a6cf7069722d83d
+http://tv.cloudcdn.me/live.ts?channelId=93&uid=13433&deviceMac=00:1A:79:00:97:A1
 
 #EXTINF:0,tvg-logo="https://i.postimg.cc/YqRdQgzB/Ekattor-TV-HD.png", EKATTOR TV HD
-https://edge01.iptv.digijadoo.net/live/ekattor_tv/playlist.m3u8?md5=TfC5iYAk27F06m8Ugmp1zw&expires=1725871494&user=ef71b837ceef4cd18a6cf7069722d83d
+http://176.119.29.61/live.ts?channelId=95&uid=13433&deviceMac=00:1A:79:00:97:A1&redir=1
 
 #EXTINF:0,tvg-logo="https://i.postimg.cc/HnZB11xs/Ekushey-TV.png", EKUSHEY TV
-https://edge01.iptv.digijadoo.net/live/ekushey_tv/playlist.m3u8?md5=oBDLm4kRtBvZa3gNcKrijA&expires=1725871163&user=ef71b837ceef4cd18a6cf7069722d83d
+http://176.119.29.52/live.ts?channelId=96&uid=13433&deviceMac=00:1A:79:00:97:A1
 
 #EXTINF:0,tvg-logo="https://i.postimg.cc/6pwDXnB8/Gaan-Bangla.png", GAAN BANGLA
 http://tv.cloudcdn.me/live.ts?channelId=97&uid=1868&deviceMac=00:1A:79:94:98:FE
 
 #EXTINF:0,tvg-logo="https://i.postimg.cc/xN53TRgQ/GTVBangladesh-Logo.png", GAZI TV HD
-https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=xOtZQD2ohJBc8PnjBuEaUg&expires=1725871465&user=ef71b837ceef4cd18a6cf7069722d83d
-
-#EXTINF:0,tvg-logo="https://images.toffeelive.com/images/program/11841/logo/240x240/mobile_logo_456366001662385216.png", GLOBAL TV HD
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/Global-g.stream/playlist.m3u8
+http://tv.roarzone.info:8082/roarzone/bk/1/index.m3u8?token=7a9a7b0bdebbe6bd723af742c090c8a7c441434d-f1b76a7fe0d5d5e1851b563e5b80541f-1725744282-1725701082
 
 #EXTINF:0,tvg-logo="https://i.postimg.cc/qB6YsGk3/Independent.png", INDEPENDENT TV
-https://livess.ncare.live/live-orgin/independent-8-org.stream/playlist.m3u8
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/independent-8-org.stream/playlist.m3u8
 
 #EXTINF:0,tvg-logo="https://i.postimg.cc/bNQwgx6r/Jamuna-TV.png", JAMUNA TV
-https://edge01.iptv.digijadoo.net/live/jamuna_tv/playlist.m3u8?md5=N6giBFVn1RBe65-pgQMrBQ&expires=1725871580&user=ef71b837ceef4cd18a6cf7069722d83d
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8
 
 #EXTINF:0,tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png", LOVE NATURE 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
 #EXTINF:0,tvg-logo="https://i.postimg.cc/mDvTm5xc/Maasranga.png", MAASRANGA HD
-https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=101&uid=13433&deviceMac=00:1A:79:00:97:A1
 
 #EXTINF:0,tvg-logo="https://i.postimg.cc/9R3pxzz6/images.png", MY TV HD
-https://edge01.iptv.digijadoo.net/live/my_tv/playlist.m3u8?md5=lbDMUYFO4rKkRIbGZct6fQ&expires=1725871290&user=ef71b837ceef4cd18a6cf7069722d83d
+http://176.119.29.52/live.ts?channelId=106&uid=13433&deviceMac=00:1A:79:00:97:A1
 
 #EXTINF:0,tvg-logo="https://i.postimg.cc/3NqfXPz6/NTV.png", NTV
-https://edge01.iptv.digijadoo.net/live/ntv/playlist.m3u8?md5=cv1oPtsU4zMnYyaVpOJ1sQ&expires=1725871178&user=ef71b837ceef4cd18a6cf7069722d83d
+http://176.119.29.52/live.ts?channelId=110&uid=13433&deviceMac=00:1A:79:00:97:A1
 
 #EXTINF:0,tvg-logo="https://i.postimg.cc/v4B3TppN/Nagorik-TV-Logo.png", NAGORIK TV
-https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=kbUEbeeVqnhIxulNi67bNg&expires=1725871648&user=ef71b837ceef4cd18a6cf7069722d83d
+
 
 #EXTINF:0,tvg-logo="https://i.postimg.cc/vB3W9fCS/News24BD.png", NEWS 24 HD
-https://edge01.iptv.digijadoo.net/live/news_24_hd/playlist.m3u8?md5=ymr2IBKcGZMYEwEb1kE-BA&expires=1725871635&user=ef71b837ceef4cd18a6cf7069722d83d
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/playlist.m3u8
 
 #EXTINF:0,tvg-logo="https://i.postimg.cc/QHj6GBSs/Nexus-Television-Logo.png", NEXUS TV
-https://livess.ncare.live/live-orgin/nexustv.stream/playlist.m3u8
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nexustv.stream/playlist.m3u8
 
 #EXTINF:0,tvg-logo="https://i.postimg.cc/Qdvs8ztf/RTV-HD.png", RTV HD
-https://edge01.iptv.digijadoo.net/live/rtv/playlist.m3u8?md5=yeXLh4KIXMrOAs9uLO3dSA&expires=1725871190&user=ef71b837ceef4cd18a6cf7069722d83d
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rtv-sg.stream/playlist.m3u8
 
 #EXTINF:0,tvg-logo="https://i.postimg.cc/4yvnV8sK/Somoy-TV.png", SOMOY TV
-https://edge01.iptv.digijadoo.net/live/somoy_news/playlist.m3u8?md5=FletbmKGKUAFRHsmQ77PWw&expires=1725871325&user=ef71b837ceef4cd18a6cf7069722d83d
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/playlist.m3u8
 
 #EXTINF:0,tvg-logo="https://i.postimg.cc/GtMwZ7VJ/SATV.png", SATV
-https://edge01.iptv.digijadoo.net/live/sa_tv/playlist.m3u8?md5=0l6MZc4Kk7_bOIg5xLKbxg&expires=1725871561&user=ef71b837ceef4cd18a6cf7069722d83d 
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8 
 
 #EXTINF:0,tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png", SONY AATH
 http://tv.cloudcdn.me/live.ts?channelId=44150&uid=8164&deviceMac=00:1A:79:17:D4:A1
