@@ -1,7 +1,5 @@
 #EXTM3U
 
-BANGLADESH
-
 #EXTINF:0,tvg-logo="https://i.ibb.co.com/0Xv223W/images.jpg" Group-title="Bangladesh", AL QURAN
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkah.stream/playlist.m3u8
 
@@ -103,8 +101,6 @@ https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/toffee-op/index.m3u8?
 
 #EXTINF:0,tvg-logo="https://i.postimg.cc/q7HXJQH8/Zee-Bangla-HD.png" Group-title="Bangladesh", ZEE BANGLA HD
 http://tv.cloudcdn.me/live.ts?channelId=120&uid=6140&deviceMac=00:1A:79:C1:9A:8C
-
-INDIA
 
 #EXTINF:0,tvg-logo="https://i.ibb.co/WtsQSjh/20240803-110628.png" Group-title="India", AND PICTURES HD
 http://opplex.tv:8080/live/773199/626227/109955.ts
