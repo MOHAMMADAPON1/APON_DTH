@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0Xv223W/images.jpg" Group-title="Bangladesh", AL QURAN
+#EXTINF:0,tvg-logo="https://i.ibb.co.com/0Xv223W/images.jpg" Group-title="Bangladesh", AL QURAN
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkah.stream/playlist.m3u8
 
 #EXTINF:0,tvg-logo="https://i.postimg.cc/vDtJVwNY/Al-Sunnah.png" Group-title="Bangladesh", AL SUNNAH
