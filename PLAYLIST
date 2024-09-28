@@ -93,7 +93,7 @@ http://176.119.29.52/live.ts?channelId=110&uid=13433&deviceMac=00:1A:79:00:97:A1
  
 
 #EXTINF:0,tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png" group-title="Bangladesh", SONY AATH
-http://tv.cloudcdn.me/live.ts?channelId=44150&uid=1384&deviceMac=00:1A:79:00:86:A7
+https://api.iptvbd.xyz/api/sony_aath.m3u8
 
 #EXTINF:0,tvg-logo="https://i.ibb.co/swrsPvc/Star-Jalsha.png" group-title="Bangladesh", STAR JALSHA HD
 
