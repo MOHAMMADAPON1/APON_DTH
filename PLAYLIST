@@ -1,7 +1,5 @@
 #EXTM3U
 
-BANGLADESH
-
 #EXTINF:0,tvg-logo="https://i.ibb.co.com/0Xv223W/images.jpg" group-title="Bangladesh", AL QURAN
 
 
@@ -103,8 +101,6 @@ https://api.iptvbd.xyz/api/sony_aath.m3u8
 
 #EXTINF:0,tvg-logo="https://i.postimg.cc/q7HXJQH8/Zee-Bangla-HD.png" group-title="Bangladesh", ZEE BANGLA HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglahd1/default/index.m3u8
-
-INDIA
 
 #EXTINF:0,tvg-logo="https://i.ibb.co/WtsQSjh/20240803-110628.png" group-title="India", AND PICTURES HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1-audio_208482_und=208000-video=2137600.m3u8
