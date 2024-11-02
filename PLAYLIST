@@ -108,7 +108,7 @@ https://mytvbangla.com/0.m3u8
 #EXTINF:0,tvg-logo="https://i.postimg.cc/q7HXJQH8/Zee-Bangla-HD.png" group-title="Bangladesh", ZEE BANGLA HD
 
 
-#EXTINF:-1,tvg-logo="https://i.ibb.co/LxLGfjL/Animax.png" group-title="",ANIMAX
+#EXTINF:-1,tvg-logo="https://i.ibb.co/LxLGfjL/Animax.png" group-title="India",ANIMAX
 https://cdn09jtedge.indihometv.com/joss/130/animax/index.m3u8
 
 #EXTINF:-1,tvg-logo="" group-title="India",AND FLIX HD
